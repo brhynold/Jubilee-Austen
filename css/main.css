@@ -16,7 +16,7 @@ body {
 /****** Header Styles ******/
 
 .homepage-hero {
-  background: url('/Users/brittanyrhynold/Desktop/SK/101-website-project/img/full-background.png'), #F9EFEF;
+  background: url('../img/full-background.png'), #F9EFEF;
   background-size: cover;
   background-position: center;
   height: 800px;
